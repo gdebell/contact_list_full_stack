@@ -1,3 +1,12 @@
 .DS_Store
 node_modules/
 npm-debug.log
+
+
+Directions for Contact-list-full-stack:
+
+1. setup a node/express application with a boiler plate.
+2. create a contacts router that sends a static html.
+3. return dummy data on page.
+4. configure database and tables.
+5. replace dummy data with database queries using pg-promies.
